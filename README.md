@@ -1,16 +1,19 @@
-# number_shape
+### Number shape
 
-A new Flutter project.
+Flutter app that says if a number is either square or triangular.
 
-## Getting Started
+#### How to use:
 
-This project is a starting point for a Flutter application.
+ - Insert an integer value in the text field.
+ - Wait for the message to pop up.
+ - Press anywhere on the screen if you want to insert another one.
 
-A few resources to get you started if this is your first Flutter project:
+![number1](https://user-images.githubusercontent.com/63413132/119467373-20c7dd00-bd4e-11eb-995c-949050cb4262.png)
+![numb2](https://user-images.githubusercontent.com/63413132/119467412-2b827200-bd4e-11eb-9015-bfb915897cf1.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![numb3](https://user-images.githubusercontent.com/63413132/119467415-2c1b0880-bd4e-11eb-8d9d-b86efbb60301.png)
+![numb4](https://user-images.githubusercontent.com/63413132/119467419-2d4c3580-bd4e-11eb-907c-0cab41d4ca1d.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![numb5](https://user-images.githubusercontent.com/63413132/119467423-2de4cc00-bd4e-11eb-8a5d-15d73b7b20d2.png)
+![numb6](https://user-images.githubusercontent.com/63413132/119467432-2f15f900-bd4e-11eb-9613-2259ac241391.png)
+
